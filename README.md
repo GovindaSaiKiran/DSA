@@ -4,6 +4,7 @@
 
 | Date | Problem | Difficulty | Language |
 |---|---|---|---|
+| 2026-09-07 | [Max Consecutive Ones](LeetCode/Medium/Max-Consecutive-Ones.cpp) | 🟡 Medium | C++ |
 | 2026-09-07 | [Shuffle the Array](LeetCode/Medium/Shuffle-the-Array.cpp) | 🟡 Medium | C++ |
 | 2026-09-07 | [Concatenation of Array](LeetCode/Medium/Concatenation-of-Array.cpp) | 🟡 Medium | C++ |
 | 2026-09-06 | [Valid Anagram](LeetCode/Easy/0242-Valid-Anagram.cpp) | 🟢 Easy | C++ |
