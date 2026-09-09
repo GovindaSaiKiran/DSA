@@ -4,6 +4,7 @@
 
 | Date | Problem | Difficulty | Language |
 |---|---|---|---|
+| 2026-09-09 | [Rotate Array](LeetCode/Medium/0189-Rotate-Array.cpp) | 🟡 Medium | C++ |
 | 2026-09-08 | [Count Commas in Range](LeetCode/Easy/3870-Count-Commas-in-Range.cpp) | 🟢 Easy | C++ |
 | 2026-09-07 | [Max Consecutive Ones](LeetCode/Medium/Max-Consecutive-Ones.cpp) | 🟡 Medium | C++ |
 | 2026-09-07 | [Shuffle the Array](LeetCode/Medium/Shuffle-the-Array.cpp) | 🟡 Medium | C++ |
