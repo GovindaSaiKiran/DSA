@@ -4,6 +4,7 @@
 
 | Date | Problem | Difficulty | Language |
 |---|---|---|---|
+| 2026-09-12 | [Move Zeroes](LeetCode/Easy/0283-Move-Zeroes.cpp) | 🟢 Easy | C++ |
 | 2026-09-11 | [Merge Sorted Array](LeetCode/Easy/0088-Merge-Sorted-Array.cpp) | 🟢 Easy | C++ |
 | 2026-09-10 | [Median of Two Sorted Arrays](LeetCode/Hard/0004-Median-of-Two-Sorted-Arrays.cpp) | 🔴 Hard | C++ |
 | 2026-09-09 | [Rotate Array](LeetCode/Medium/0189-Rotate-Array.cpp) | 🟡 Medium | C++ |
