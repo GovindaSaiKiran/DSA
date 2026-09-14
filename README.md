@@ -4,6 +4,7 @@
 
 | Date | Problem | Difficulty | Language |
 |---|---|---|---|
+| 2026-09-14 | [Rectangle Overlap](LeetCode/Easy/0836-Rectangle-Overlap.cpp) | 🟢 Easy | C++ |
 | 2026-09-13 | [Largest Number At Least Twice of Others](LeetCode/Easy/0747-Largest-Number-At-Least-Twice-of-Others.cpp) | 🟢 Easy | C++ |
 | 2026-09-12 | [Move Zeroes](LeetCode/Easy/0283-Move-Zeroes.cpp) | 🟢 Easy | C++ |
 | 2026-09-11 | [Merge Sorted Array](LeetCode/Easy/0088-Merge-Sorted-Array.cpp) | 🟢 Easy | C++ |
